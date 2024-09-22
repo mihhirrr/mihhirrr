@@ -1,7 +1,7 @@
  Hi, I’m Mihir Dongare
 
-- 👀 I’m interested in learning Software Developmentm of next generation.
-- 🌱 I’m currently learning Node.JS.
+- 👀 I’m interested in learning Software Development of next generation.
+- 🌱 I’m currently learning Node + Express.
 - 💞️ I’m looking to collaborate on open-source projects, especially those related to data science and web applications.
 - 📫 How to reach me: [Email](mailto:mihirdongare@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mihir-dongare-85a17819a/) | [Twitter](https://x.com/MihirDongare)
 

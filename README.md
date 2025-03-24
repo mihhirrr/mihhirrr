@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning Software Development of next generation.
 - 🌱 I’m currently learning Node + Express.
-- 💞️ I’m looking to collaborate on open-source projects, especially those related to data science and web applications.
+- 💞️ I’m looking to collaborate on open-source projects, especially those related to backend development.
 - 📫 How to reach me: [Email](mailto:mihirdongare@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mihir-dongare-85a17819a/) | [Twitter](https://x.com/MihirDongare)
 
 <!---
